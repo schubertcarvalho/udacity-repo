@@ -3,6 +3,7 @@ This is a repository to gain familiarity with git and Github.
 
 # # Here is a list of the most used git commands
 
+<<<<<<< HEAD
 * git config
 * git init
 * git clone
