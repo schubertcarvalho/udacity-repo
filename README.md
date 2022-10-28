@@ -1,16 +1,15 @@
 # udacity-repo
 This is a repository to gain familiarity with git and Github.
 
-# # Here is a list of the most used git commands
+## Here is a list of the most used git commands
 
-<<<<<<< HEAD
 * git config
 * git init
 * git clone
-* git add
-* git commit
-* git diff
-* git reset
+* git add [file]
+* git commit -m "[descriptive message]"
+* git diff --staged
+* git reset [file]
 * git status
 * git rm
 * git log
